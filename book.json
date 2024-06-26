@@ -1,5 +1,5 @@
 {
-    "title": "用摸鱼kik追踪玫瑰的故事，追踪刘亦菲\n用摸鱼kik追踪Manner冲突事件\n用摸鱼kik追踪2024北京车展\n用摸鱼kik追踪618福利\n用摸鱼kik追踪庆余年2\n用摸鱼kik追踪歌手2024\n用摸鱼kik追踪2024热梗\n用摸鱼kik追踪12366个税问题\n用摸鱼kik追踪茅台价格\n用摸鱼kik追踪iPhone16\n用摸鱼kik追踪成都地铁13号线事故",
+    "title": "用摸鱼kik追踪热点",
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
@@ -64,7 +64,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 Sohu.com | <a href='/' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 2019-2024 sohu.com | <a href='/' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -158,7 +158,7 @@
         },
         "lanying-grow-ai": {
             "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于摸鱼kik）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
-            "lanying_link": "https://lanying.link/3qur4g",
+            "lanying_link": "http://moyukik.sohu.com",
             "sitemap_hostname": "http://moyukik.sohu.com"
         }
     }
