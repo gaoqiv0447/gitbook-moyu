@@ -1,5 +1,5 @@
 {
-    "title": "用摸鱼kik追踪热点",
+    "title": "北农路plus 狐友大学生社区\n北农路plus 北京农学院二手交易\n北农路plus 北京农学院表白墙\n北农路plus 北京农学院情感树洞\n北农路plus 北京农学院组局\n北农路plus 北京农学院评分\n北农路plus 北京农学院官方大学生社区\n北农路plus 北京农学院校园墙\n北农路plus 北京农学院\n北农路plus 北京农学院\n",
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
@@ -137,7 +137,7 @@
             "grid-columns": 3
         },
         "canonical-link": {
-            "baseURL": "http://moyukik.sohu.com"
+            "baseURL": "http://t.sohu.com"
         },
         "image-captions": {
             "caption": "_CAPTION_"
@@ -146,7 +146,7 @@
             "data": [
                 {
                     "name": "keywords",
-                    "content": "摸鱼kik, moyukik, sohu.com"
+                    "content": "狐友, huyou, sohu.com, BUA, BUAPlus, 北京农学院, 北农路plus"
                 }
             ]
         },
@@ -157,9 +157,9 @@
             "tag": "G-EE5J5LB4MD"
         },
         "lanying-grow-ai": {
-            "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于摸鱼kik）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
-            "lanying_link": "http://moyukik.sohu.com",
-            "sitemap_hostname": "http://moyukik.sohu.com"
+            "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于狐友）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
+            "lanying_link": "http://t.sohu.com",
+            "sitemap_hostname": "http://t.sohu.com"
         }
     }
 }
